@@ -13,9 +13,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying computer Engineering at Instituto Tecnológico de Costa Rica .\
+🎓 &nbsp;I'm currently studying computer Engineering at Instituto Tecnológico de Costa Rica.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✉️ &nbsp;You can shoot me an email at andreysalamancac@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at andreysalamancac@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,6 +28,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 💻 Frameworks
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🗃 &nbsp;Databases
 
